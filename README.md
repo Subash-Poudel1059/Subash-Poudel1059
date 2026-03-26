@@ -6,8 +6,7 @@ I am a Bachelor in Computer Engineering student at Pokhara University with a pas
 ---
 
 ### 🚀 About Me
-- 🎓 **Education:** Currently pursuing Computer Engineering at Cosmos College (Pokhara University).
-- 👨‍💻 **Role:** President of **ICT Club Cosmos**.
+- 🎓 **Education:** Currently pursuing Computer Engineering.
 - 🏆 **Hackathons:** Participant in **NASA SpaceApps Challenge 2024** and organizer of **Cosmos Hacks 2025**.
 - 🛠️ **Current Projects:** Working on **Neuralens** (AI + Flutter) and **Travel Buddy**.
 - 📫 **Contact:** [poudel.subash556@gmail.com](mailto:poudel.subash556@gmail.com)
