@@ -1,18 +1,17 @@
 <div align="center">
 
-<!-- Header Image - Cosmos/Deep Blue Theme -->
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=Subash%20Poudel&fontSize=70&animation=fadeIn&fontColor=ffffff" width="100%"/>
-
-<!-- Typing Animation - Updated with your new roles -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Mobile+Application+Developer;AI+/+ML+Engineer;ICT+Club+President+(2025-2026);NASA+SpaceApps+2024+Participant;Microsoft+Imagine+Cup+Competitor" alt="Typing SVG" /></a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=Subash%20Poudel&fontSize=70&fontColor=ffffff" width="100%"/>
+</div>
+<!-- Typing Animation - Fixed to show correctly -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Mobile+Application+Developer;AI+and+ML+Engineer;ICT+Club+President+(2025-2026);NASA+SpaceApps+2024+Participant;Microsoft+Imagine+Cup+Competitor" alt="Typing SVG" /></a>
 
 ---
 
 ### 💫 About Me
-**Mobile App Developer | AI/ML Engineer | Computer Engineering Student | Tech Explorer**
+**Mobile App Developer | AI and ML Engineer | Computer Engineering Student | Tech Explorer**
 
-I am a Computer Engineering student dedicated to building technology that makes a social impact. 
-
+I am a Computer Engineering student dedicated to building technology that makes a social impact.
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/subash-poudel-574b76286) 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:poudel.subash556@gmail.com)
